@@ -1,2 +1,2 @@
-# Toko-Buku-Digital
-Sistem Manajemen Toko Buku Digital Modular Java 
+# Toko Buku Digital
+Projek Sistem Manajemen Toko Buku Digital Modular Java 
